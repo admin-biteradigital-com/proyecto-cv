@@ -18,8 +18,6 @@ Este proyecto se ejecuta bajo el cumplimiento estricto del **Sistema de Gestión
 * **ISO 22301:2019:** Continuidad del negocio y recuperación ante desastres.
 * **Ley 18.331 / GDPR:** Protección de Datos Personales y Soberanía.
 
-Cualquier desviación de los estándares definidos en los documentos maestros (`GOV-01`, `SEC-01`, `ARQ-01`) constituye una No Conformidad.
-
 ## 3. Arquitectura Técnica
 El servicio corre sobre una infraestructura virtualizada de alta densidad:
 
